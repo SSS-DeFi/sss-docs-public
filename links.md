@@ -9,10 +9,10 @@
 ## Litepaper 
 
 - SSS DeFi — Fully On-Chain Trading System (Litepaper v2)
-  [https://www.sssdefi.ai/blog/why-crypto-will-converge-to-full-chain-trading-platforms-en](https://www.sssdefi.ai/blog/sss-litepaper-v2-en)
+  [https://www.sssdefi.ai/blog/sss-litepaper-v2-en](https://www.sssdefi.ai/blog/sss-litepaper-v2-en)
 
 - SSS DeFi 全链上交易系统（Litepaper v2）
-  [https://www.sssdefi.ai/blog/why-crypto-will-converge-to-full-chain-trading-platforms-cn?lang=zh](https://www.sssdefi.ai/blog/sss-litepaper-v2-zh?lang=zh)
+  [https://www.sssdefi.ai/blog/sss-litepaper-v2-zh?lang=zh](https://www.sssdefi.ai/blog/sss-litepaper-v2-zh?lang=zh)
 
 ## Articles
 
