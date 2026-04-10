@@ -22,9 +22,9 @@ It combines:
 
 ## Key Links
 
-- Website: https://www.sssdefi.ai  
-- App: https://app.sssdefi.ai  
-- Docs: https://docs.sssdefi.ai  
+- Website: [https://www.sssdefi.ai](https://www.sssdefi.ai)  
+- App: [https://app.sssdefi.ai](https://app.sssdefi.ai)  
+- Docs: [https://docs.sssdefi.ai](https://docs.sssdefi.ai)  
 
 ---
 
