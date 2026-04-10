@@ -17,6 +17,9 @@ It combines:
 - 🔐 [Trust & Safety](trust-safety)
 - ⚠️ [Risk Disclosure](risk-disclosure)
 - ❓ [FAQ](faq)
+- 🧠 [Why Full On-Chain Trading](why-full-onchain)
+- ⚖️ [SSS vs AMM vs CEX](sss-vs-amm-vs-cex)
+- 🔗 [Links & Resources](links)
 
 ---
 
