@@ -6,7 +6,10 @@
 * [Trust & Safety](trust-safety.md)
 * [Risk Disclosure](risk-disclosure.md)
 * [FAQ](faq.md)
-
 * [Why Full On-Chain Trading](why-full-onchain.md)
 * [SSS vs AMM vs CEX](sss-vs-amm-vs-cex.md)
+* [Architecture](architecture.md)
+* [Execution Model](execution-model.md)
+* [Public Test](public-test.md)
+* [Glossary](glossary.md)
 * [Links & Resources](links.md)
