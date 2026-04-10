@@ -1,6 +1,6 @@
 # SSS DeFi Docs
 
-SSS is a fully on-chain trading system built on ICP.
+SSS is a fully on-chain trading system built on ICP with CEX Experience · DEX Trust.
 
 It combines:
 - CEX-like user experience
