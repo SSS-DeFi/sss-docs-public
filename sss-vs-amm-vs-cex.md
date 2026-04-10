@@ -55,5 +55,6 @@ SSS is a fully on-chain trading system.
 - AMM DEX focuses on openness
 - SSS aims to combine user experience with on-chain trust
 
-- <img width="1800" height="1210" alt="image" src="https://github.com/user-attachments/assets/29409303-e545-4865-b747-b8a1a37a160f" />
+
+<img width="1800" height="1210" alt="image" src="https://github.com/user-attachments/assets/29409303-e545-4865-b747-b8a1a37a160f" />
 [Image source](https://www.sssdefi.ai/blog/why-crypto-will-converge-to-full-chain-trading-platforms-en)
